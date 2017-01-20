@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello %user!" << endl;
+        cout << "Hello %user!" << endl
 	return 0;
 }
